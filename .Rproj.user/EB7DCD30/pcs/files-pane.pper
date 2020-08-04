@@ -1,0 +1,9 @@
+{
+    "path" : "~/web_unidad_apoyo_estadistico/blog_nat",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
